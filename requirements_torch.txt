@@ -1,0 +1,7 @@
+pandas
+jupyter
+openpyxl
+datasets
+transformers[torch]
+numpy==1.26.4
+faiss-cpu
